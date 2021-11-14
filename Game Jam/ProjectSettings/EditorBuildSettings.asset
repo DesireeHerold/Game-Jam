@@ -6,6 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Sunrise.unity
+    guid: 38216f8522af5f34eb8297f6eec235a1
+  - enabled: 1
+    path: Assets/Scenes/Stationszimmer.unity
+    guid: ebf0549fd185e9545a5fd0d84b725e02
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 435c40e1b66e04c4995bf232ff7da19f
+  - enabled: 1
+    path: Assets/Scenes/Patientenzimmer.unity
+    guid: d323ccac4fabaaf4281120a77eae70ca
+  - enabled: 1
+    path: Assets/Scenes/Warteraum.unity
+    guid: eccad373d9aa1ff4583ec90af513043e
+  - enabled: 1
+    path: Assets/Scenes/Arztzimmer.unity
+    guid: 9a9aacc195bf0bd49bb278a9e2059f4f
+  - enabled: 1
+    path: Assets/Scenes/Beratungsraum.unity
+    guid: 3890c38a176654a489a69e92f934060a
+  - enabled: 1
+    path: Assets/Scenes/Trainingsraum.unity
+    guid: e2af9d1e27345ea45b5172979a605c0a
   m_configObjects: {}
